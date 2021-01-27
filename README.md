@@ -1,9 +1,5 @@
-# work-signin
-|
-![signin](https://user-images.githubusercontent.com/73812196/105280544-5ec0c300-5bed-11eb-8f34-5c4f1ef54336.jpg)
-|
-![login](https://user-images.githubusercontent.com/73812196/105280598-7730dd80-5bed-11eb-99aa-2253a8f35ffb.jpg)
-|
-![memberinfo](https://user-images.githubusercontent.com/73812196/105280614-7e57eb80-5bed-11eb-8f25-0fbd0e3b8dd3.jpg)
-|
-![database](https://user-images.githubusercontent.com/73812196/105280618-81eb7280-5bed-11eb-8f17-6160f840d3c3.jpg)
+### work-signin 개인 미니 프로젝트
+-----------------------------------------
+- 회원 가입 구현
+- 로그인 성공 / 로그인 실패 처리
+- 오라클 데이터 연동하여 데이터 삽입됨 확인
